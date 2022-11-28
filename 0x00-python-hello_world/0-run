@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-run (main.py)
+#!/usr/bin/bash
+python3 main.py
