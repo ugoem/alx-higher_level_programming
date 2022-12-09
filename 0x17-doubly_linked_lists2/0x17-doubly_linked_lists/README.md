@@ -1,4 +1,4 @@
-# C - Doubly linked lists
+# C - Doubly linked liss
 This readme contains tasks on doubly linked list
 
 Requirements
