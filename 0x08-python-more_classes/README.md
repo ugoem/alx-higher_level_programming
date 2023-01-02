@@ -1,4 +1,4 @@
-##Python - More Classes and Objects
+#Python - More Classes and Objects
 
 File: 0-rectangle.py - an empty class Rectangle that defines a rectangle:
 
