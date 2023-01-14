@@ -1,9 +1,6 @@
 # Python Input/Output
 
-![python_i/o](https://dbader.org/static/figures/python-reading-writing-files.jpg)
 ## Learning Objectives
-
-![objectives](https://courses.dcs.wisc.edu/design-teaching/PlanDesign_Fall2016/2-Online-Course-Design/2_Learning-Objectives-Alignment/images/objective-puzzle.JPG)
 
 * Why Python programming is awesome
 * How to open a file
@@ -18,6 +15,3 @@
 * What is `deserialization`
 * How to convert a `Python data structure` to a `JSON string`
 * How to convert a `JSON string` to a Python `data structure`
-
-# ALX - SE Program
-![alx_SE_program](https://fidelityconcepts.com/wp-content/uploads/2022/08/ALX.jpg)
