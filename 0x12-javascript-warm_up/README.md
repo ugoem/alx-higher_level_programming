@@ -38,7 +38,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 # Requirements
 ## General
-* Allowed editors: vi, vim, emacs
+* Allowed editors: ```vi, vim, emacs ```
 * All your files will be interpreted on Ubuntu 20.04 LTS using node (version 14.x)
 * All your files should end with a new line
 * The first line of all your files should be exactly #!/usr/bin/node
@@ -49,8 +49,10 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 # More Info
 ## Install Node 14
-``` $ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
-$ sudo apt-get install -y nodejs ```
+``` 
+    $ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+    $ sudo apt-get install -y nodejs 
+```
 
 ## Install semi-standard
 Documentation
