@@ -1,5 +1,5 @@
 #!/usr/bin/node
-function Rectangle(inputWidth, inputHeight) {
-    this.width = inputWidth;
-    this.height = inputHeight;
+// JS script used to define an empty class
+class Rectangle {
 }
+module.exports = Rectangle;
