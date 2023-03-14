@@ -1,4 +1,5 @@
 #!/usr/bin/node
+// JS to check arguments passed into script
 /*
    Commandline arguments in js is made possible using the process.argv
    which is an array that contains all arguments of the CLI.
@@ -10,9 +11,11 @@
 
    so process.argv[2] ... contains users passed in arguments.
 */
-if (process.argv.length < 3) {
+'use strict';
+let len = process.argv.length;
+if (len < 3) {
   console.log('No argument');
-} else if (process.argv.length > 3) {
+} else if (len > 3) {
   console.log('Arguments found');
 } else {
   console.log('Argument found');
