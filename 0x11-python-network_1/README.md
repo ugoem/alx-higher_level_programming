@@ -1,6 +1,6 @@
 # Python - Network #1
 
-![](https://sf.ezoiccdn.com/ezoimgfmt/networkencyclopedia.com/wp-content/uploads/2019/08/computer-networking-1.jpg?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-1)
+![](https://www.rogerperkin.co.uk/wp-content/uploads/2020/07/python-scripts-for-network-engineers.png)
 
 # Resources
 ## Read or watch:
