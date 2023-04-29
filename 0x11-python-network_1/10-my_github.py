@@ -16,12 +16,12 @@ def main(argv):
     password = argv[2]
     response = requests.get('https://api.github.com/user',
                             auth=HTTPBasicAuth(user, password))
-    
     try:
         profile_info = response.json()
         print(profile_info['id'])
-    except:
+    except EmptyError:
         print('None')
+
 
 if __name__ == "__main__":
     main(argv)
