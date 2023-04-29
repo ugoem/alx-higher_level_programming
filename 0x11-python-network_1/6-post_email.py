@@ -15,7 +15,7 @@ def main(argv):
     url = argv[1]
     r = requests.post(url, data=values)
     print(r.text)
-    
-    
+
+
 if __name__ == "__main__":
     main(argv)
