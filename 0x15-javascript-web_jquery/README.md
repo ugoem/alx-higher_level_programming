@@ -1,5 +1,6 @@
 # JavaScript - Web jQuery
 
+![](https://www.devopsschool.com/blog/wp-content/uploads/2022/03/jquery-1024x559.png)
 ## Concepts
 For this project, we expect you to look at these concepts:
 
@@ -63,4 +64,4 @@ Import JQuery
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 </head>
 ```
-![] (https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/305/1f1ihd.jpg)
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/305/1f1ihd.jpg)
